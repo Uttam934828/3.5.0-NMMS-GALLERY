@@ -66,7 +66,7 @@
         "device_id": "758498cf488129d2",
         "username": "Sunil",
         "password": "Sunil",
-        "expirydate": "15-03-2026",
+        "expirydate": "01-03-2026",
         "Allowoffline": false
     },
     {
@@ -91,10 +91,10 @@
         "Allowoffline": false
     },
     {
-        "device_id": "device456",
-        "username": "user2",
-        "password": "pass456",
-        "expirydate": "15-02-2026",
+        "device_id": "01d1dbfcff32101d",
+        "username": "Silu",
+        "password": "Silu",
+        "expirydate": "01-03-2026",
         "Allowoffline": false
     },
     {
