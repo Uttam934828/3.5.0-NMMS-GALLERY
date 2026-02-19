@@ -260,15 +260,15 @@
     },
     {
         "device_id": "030fcde4fdd86603",
-        "username": "Zakir",
-        "password": "Zakir",
+        "username": "Z",
+        "password": "Z",
         "expirydate": "04-03-2026",
         "Allowoffline": false
     },
     {
         "device_id": "d01e005cb0030dae",
-        "username": "Isaac",
-        "password": "Isaac",
+        "username": "I",
+        "password": "I",
         "expirydate": "04-03-2026",
         "Allowoffline": false
     },
